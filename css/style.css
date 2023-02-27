@@ -1,0 +1,19 @@
+body {
+    margin-top: 100px;
+}
+
+.valid {
+    border: 13px solid green;
+}
+
+.invalid {
+    border: 13px solid red;
+}
+
+* {
+    user-select: none;
+}
+span{
+    margin-right: 10px;
+    cursor: pointer;
+}
