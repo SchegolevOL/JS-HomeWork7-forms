@@ -17,3 +17,21 @@ span{
     margin-right: 10px;
     cursor: pointer;
 }
+.container{
+    margin-top: 50px;
+}
+#redBtn {
+    background-color: red;
+  }
+  
+  #blueBtn {
+    background-color: blue;
+  }
+  
+  #greenBtn {
+    background-color: green;
+  }
+  
+  #yellowBtn {
+    background-color: yellow;
+  }
